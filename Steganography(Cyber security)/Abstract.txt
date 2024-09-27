@@ -1,0 +1,19 @@
+Abstract:
+ 
+A Sign Language is one of the ways to communicate with deaf people. In this 
+work sets, included features and variation in the language with locality have 
+been them a major barrier which has led to little research being done in ISL. 
+One should learn sign language to interact with them. Learning usually takes 
+place in peer groups. There are very few study materials available for sign 
+learning. Because of this, the process of learning sign language learning is a 
+very difficult task. The initial stage of sign learning is Finger spelled sign 
+learning and moreover, are used when no corresponding sign exists or signer is 
+not aware of it. Most of the existing tools for sign language learning use 
+external sensors which are costly. Our project aims at extending a step forward 
+in this field by collecting a dataset and then use various feature extraction 
+techniques to extract useful information which is then input into various 
+supervised learning techniques. Currently, we have reported fourfold cross 
+validated results for the different approaches, and the difference from the 
+previous work done can be attributed to the fact that in our fourfold cross 
+validation, the validation set Correspond to images of a person different from 
+the persons in the training set.
